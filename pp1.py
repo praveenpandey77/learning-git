@@ -4,3 +4,6 @@ a *b
 print('the value of multifilcation {}'.format(a*b))
 print('hello world')
 print('this is my training to learning git')
+c = (a + b) / b
+print(c)
+
