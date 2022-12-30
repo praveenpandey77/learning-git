@@ -1,4 +1,5 @@
-
 import numpy as np
-list= [1,2,3]
-np.sum(list)
+s= np.mean([20,23,15,72,58])
+print(s)
+
+
